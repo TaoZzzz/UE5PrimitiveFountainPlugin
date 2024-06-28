@@ -1,0 +1,24 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "Primitive Fountain",
+    "Description": "A plugin that spawns various primitive shapes in a fountain-like manner.",
+    "Category": "Example",
+    "CreatedBy": "TaoZzzz",
+    "CreatedByURL": "https://github.com/TaoZzzz/UE5PrimitiveFountainPlugin",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "PrimitiveFountain",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
